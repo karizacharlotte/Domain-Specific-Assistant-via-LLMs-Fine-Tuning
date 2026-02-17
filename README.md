@@ -3,9 +3,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19vCx0wqRTY5a2hM1hOIEsDlBnCzH6z2f)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-**Student:** Charlotte Kariza | **Course:** Machine Learning Techniques | **Institution:** African Leadership University
-
----
 
 ## Overview
 
@@ -173,7 +170,7 @@ Thank you to:
 African Leadership University  
 Machine Learning Techniques - January 2026
 
-**GitHub Repository:** [Add your repo link]  
+**GitHub Repository:** [https://github.com/karizacharlotte/Domain-Specific-Assistant-via-LLMs-Fine-Tuning](https://github.com/karizacharlotte/Domain-Specific-Assistant-via-LLMs-Fine-Tuning)  
 **Questions?** Submit via ALU course portal
 
 ---
