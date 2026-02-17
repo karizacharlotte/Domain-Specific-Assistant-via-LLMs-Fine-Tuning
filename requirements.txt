@@ -1,0 +1,35 @@
+# Medical Assistant LLM Fine-Tuning - Requirements
+# Python 3.8+ required
+
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+accelerate>=0.24.0
+
+# Parameter-Efficient Fine-Tuning
+peft>=0.7.0
+bitsandbytes>=0.41.0
+
+# Training & Optimization
+trl>=0.7.0
+scipy>=1.11.0
+
+# Evaluation Metrics
+evaluate>=0.4.0
+rouge-score>=0.1.2
+nltk>=3.8.0
+
+# User Interface
+gradio>=4.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilities
+tqdm>=4.65.0
+huggingface-hub>=0.19.0
+
+# Note: For Google Colab, most packages are pre-installed
+# Only install: pip install -q peft trl bitsandbytes evaluate rouge-score
