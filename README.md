@@ -1,6 +1,5 @@
 ---
 title: Medical Assistant
-emoji: 🏥
 colorFrom: blue
 colorTo: green
 sdk: docker
@@ -172,15 +171,8 @@ Thank you to:
 - **My instructors at ALU** for guidance on this project
 
 ---
-
-## Contact
-
-**Charlotte Kariza**  
-African Leadership University  
-Machine Learning Techniques - January 2026
-
 **GitHub Repository:** [https://github.com/karizacharlotte/Domain-Specific-Assistant-via-LLMs-Fine-Tuning](https://github.com/karizacharlotte/Domain-Specific-Assistant-via-LLMs-Fine-Tuning)  
-**Questions?** Submit via ALU course portal
+
 
 ---
 
