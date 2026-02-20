@@ -173,7 +173,3 @@ Thank you to:
 ---
 **GitHub Repository:** [https://github.com/karizacharlotte/Domain-Specific-Assistant-via-LLMs-Fine-Tuning](https://github.com/karizacharlotte/Domain-Specific-Assistant-via-LLMs-Fine-Tuning)  
 
-
----
-
-*This project demonstrates end-to-end LLM fine-tuning for domain-specific applications, completed as part of the Machine Learning Techniques course at African Leadership University.*
