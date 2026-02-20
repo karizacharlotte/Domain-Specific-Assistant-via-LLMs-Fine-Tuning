@@ -1,3 +1,13 @@
+---
+title: Medical Assistant
+emoji: 🏥
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Medical Assistant - LLM Fine-Tuning Project
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19vCx0wqRTY5a2hM1hOIEsDlBnCzH6z2f)
@@ -5,7 +15,6 @@
 
 
 ## Overview
-
 This project tackles a real-world problem: millions of people lack immediate access to medical information when they need it most. I built an AI-powered Medical Assistant by fine-tuning TinyLlama-1.1B on 5,000 medical Q&A pairs, transforming a general chatbot into a specialized healthcare assistant that can explain conditions, symptoms, and treatments in clear, accessible language.
 
 **Important:** This is an educational project demonstrating LLM fine-tuning techniques, not a replacement for professional medical advice.
